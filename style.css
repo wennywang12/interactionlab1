@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 16px;
+    text-align: center;
+}
+
+h1{
+    padding-top: 1rem;
+}
+
+.style{
+    margin: 1rem 10rem 3rem;
+    padding: 1.5rem;
+    background-color: chartreuse;
+    border-style: dotted;
+}
